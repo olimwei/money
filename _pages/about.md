@@ -3,6 +3,11 @@ permalink: /about/
 title: "关于"
 excerpt: "钱熵是欧耶对投资的学习思考和实践的记录"
 layout: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/o-home-featrue.jpg
+excerpt: >
+  欧耶关于投资技术和理念学习，思考和实践的园地
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png

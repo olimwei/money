@@ -187,12 +187,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
@@ -205,90 +207,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  learning:
-    output: true
-    permalink: /:collection/:path/
-  thoughts:
-    output: true
-    permalink: /:collection/:path/
-  practice:
-    output: true
-    permalink: /:collection/:path/
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _learning
-  - scope:
-      path: ""
-      type: learning
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _practice
-  - scope:
-      path: ""
-      type: practice
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-   # _thoughts
-   - scope:
-      path: ""
-      type: thoughts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -356,4 +275,86 @@ compress_html:
     envs: development
 
 
+  # Defaults
+  defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _learning
+  - scope:
+      path: "_learning"
+      type: learning
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _practice
+  - scope:
+      path: "_practice"
+      type: practice
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _thoughts
+  - scope:
+      path: "_thoughts"
+      type: thoughts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _resource
+  - scope:
+      path: "_resource"
+      type: resource
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  learning:
+    output: true
+    permalink: /:collection/:path/
+  thoughts:
+    output: true
+    permalink: /:collection/:path/
+  practice:
+    output: true
+    permalink: /:collection/:path/
+  resource:
+    output: true
+    permalink: /:collection/:path/

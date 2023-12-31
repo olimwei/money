@@ -1,6 +1,6 @@
 ---
 title: Learning
-layout: collection
+layout: posts
 permalink: /learning/
 collection: learning
 entries_layout: grid

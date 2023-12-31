@@ -1,6 +1,6 @@
 ---
 title: Thoughts
-layout: collection
+layout: posts
 permalink: /thoughts/
 collection: thoughts
 entries_layout: grid

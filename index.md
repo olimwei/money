@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/o-home-feature.jpg
+  overlay_image: /assets/images/o-home-featrue.jpg
   actions:
     - label: "<i class='fas fa-download'></i> 点击彩蛋"
       url: "https://olim.ca"
