@@ -19,7 +19,7 @@ feature_row:
     url: "/learning/"
     btn_class: "btn--primary"
     btn_label: "了解更多1"
-  - image_path: /assets/images/mo-feature2.png
+  - image_path: /assets/images/o-feature2.png
     alt: "复盘与操作"
     title: "复盘与投资操作计划"
     excerpt: "按周，月，季，年定期对大盘和主要行业标的跟踪复盘。不定期对重点关注个股进行复盘。"
