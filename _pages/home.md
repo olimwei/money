@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /home/
-hidden: ture
+hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
@@ -35,4 +35,4 @@ feature_row:
     btn_label: "了解更多3"      
 ---
 
-{{ content }}
+{% include feature_row %}
