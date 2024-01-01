@@ -1,10 +1,11 @@
 ---
-title:  "Exclude Post from Search Index"
+title:  "这是一个普通文章的学习版本"
 search: true
 layout: posts
+author_profile: true
 categories: 
   - Jekyll
-last_modified_at: 2018-02-19T08:06:00-05:00
+last_modified_at: 2023-12-31T08:06:00-05:00
 ---
 
 ## 第一

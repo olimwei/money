@@ -5,8 +5,9 @@ permalink: /practice/
 collection: practice
 entries_layout: grid
 classes: wide
+author_profile: true
 sidebar:
-  title: "Sample Title"
+  title: "Siderbar Sample"
   nav: sidebar-sample
 ---
 

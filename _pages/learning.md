@@ -5,6 +5,7 @@ permalink: /learning/
 collection: learning
 entries_layout: grid
 classes: wide
+author_profile: true
 sidebar:
   - title: "Title"
     image: "/assets/images/350x250.png"

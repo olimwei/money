@@ -331,7 +331,16 @@ compress_html:
       author_profile: true
       share: true
       comments: true
-
+  # _chanlun
+  - scope:
+      path: "_chanlun"
+      type: 108
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 # Collections
 collections:
   docs:
@@ -356,5 +365,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   resource:
+    output: true
+    permalink: /:collection/:path/
+  chanlun:
     output: true
     permalink: /:collection/:path/
