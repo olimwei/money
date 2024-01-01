@@ -1,10 +1,11 @@
 ---
-title: 股市闲谈：G股是G点，大牛不用套！(2006-05-12 19:02:25)
-layout: collection
+title: "股市闲谈：G股是G点，大牛不用套！(2006-05-12 19:02:25)"
+layout: single
 permalink: /chanlun/
 collection: collection
+classes: # wide
 entries_layout: grid
-classes: wide
+toc: ture
 sidebar:
   - title: "教你炒股票108课"
     text: "市场哲学的数学原理"
