@@ -1,13 +1,13 @@
 ---
 permalink: /about/
-title: "钱熵"
-excerpt: "钱熵是欧耶对投资的学习思考和实践的记录"
+title: "缠论学习和复盘"
+excerpt: "缠论学习和复盘是欧耶对投资的学习思考和实践的记录"
 layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/o-home-featrue.jpg
 excerpt: >
-  欧耶关于投资技术和理念学习，思考和实践的园地
+  欧耶用缠论在投资领域的学习，思考和应用实践的园地
 layouts_gallery:
   - url: /assets/images/o-feature1.png
     image_path: /assets/images/o-feature1.png
@@ -41,4 +41,4 @@ layouts_gallery:
 本人非金融证券从业人员，本网站所有对证券市场的分析仅为个人兴趣爱好，属自娱自乐性质，为个人将来复盘时留下可查询的资料，不作为他人投资建议。有缘来到此小站的朋友，请遵循自己的理论和习惯指导自己的操作。
 
 
-## 还在测试建设当中。。。。[]()。😄
+## 还在测试当中。。。。[]()。😄
