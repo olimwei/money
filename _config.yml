@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh"
-title                    : "钱熵"
+title                    : "缠论学习和复盘"
 title_separator          : "-"
 subtitle                 : 一场随波逐流的财富之旅
-name                     : "欧耶钱熵"
+name                     : "欧耶复盘"
 description              : "欧耶关于投资的学习思考和实践"
 url                      : "https://money.olim.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
