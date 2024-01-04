@@ -1,14 +1,14 @@
 ---
 title: "2024年1月3日特斯拉TSLA复盘"
 layout: single
+comments: ture
 author_profile: true
 classes: wide
 categories:
   - 复盘
 tags:
-  - SPX
+  - TSLA
 toc: fasle
-comments: ture
 ---
 
 新年开盘，特斯拉在交付数据达预期后，随大盘回撤。今天将从多级别走势角度来分析，以期建立一个大的走势轮廓，为中长期持股提供参考，不至于迷失在短期波动当中。
@@ -64,3 +64,4 @@ comments: ture
 **免责声明** 
 
 本人非金融证券从业人员，本网站所有对证券市场的分析仅为个人兴趣爱好，属自娱自乐性质，为个人将来复盘时留下可查询的资料，不作为他人投资建议。
+
