@@ -1,7 +1,9 @@
 ---
 title: "2024年1月3日特斯拉TSLA复盘"
 layout: single
-comments: ture
+read_time: true
+comments: true
+share: true
 author_profile: true
 classes: wide
 categories:
@@ -63,8 +65,4 @@ toc: fasle
 **免责声明** 
 
 本人非金融证券从业人员，本网站所有对证券市场的分析仅为个人兴趣爱好，属自娱自乐性质，为个人将来复盘时留下可查询的资料，不作为他人投资建议。
-
-<div>
-  {% include comments.html %}
-</div>
 
