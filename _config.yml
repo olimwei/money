@@ -24,7 +24,7 @@ description              : "欧耶关于投资的学习思考和实践"
 url                      : "https://money.olim.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "olimwei/money"
-teaser                   : "/assets/images/logo-olim-88x88.PNG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/olim-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo-olim2.png"
 masthead_title           : "欧耶复盘" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/logo-olim-88x88.PNG" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/olim-teaser.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -304,6 +304,7 @@ compress_html:
       author_profile: true
       share: true
       comments: true
+      related: true
   # _practice
   - scope:
       path: "_practice"
@@ -313,6 +314,7 @@ compress_html:
       author_profile: true
       share: true
       comments: true
+      related: true
   # _thoughts
   - scope:
       path: "_thoughts"
@@ -322,6 +324,7 @@ compress_html:
       author_profile: true
       share: true
       comments: true
+      related: true
   # _resource
   - scope:
       path: "_resource"
@@ -331,6 +334,7 @@ compress_html:
       author_profile: true
       share: true
       comments: true
+      related: true
   # _chanlun
   - scope:
       path: "_chanlun"
@@ -340,6 +344,7 @@ compress_html:
       author_profile: true
       share: true
       comments: true
+      related: true
       
 # Collections
 collections:
