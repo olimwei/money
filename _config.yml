@@ -24,9 +24,9 @@ description              : "欧耶关于投资的学习思考和实践"
 url                      : "https://money.olim.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "olimwei/money"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/logo-olim-teaser.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo-olim2.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "欧耶复盘" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
