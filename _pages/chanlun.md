@@ -6,6 +6,7 @@ collection: collection
 classes: # wide
 entries_layout: grid
 toc: ture
+toc_sticky: true
 sidebar:
   - title: "教你炒股票108课"
     text: "市场哲学的数学原理"
