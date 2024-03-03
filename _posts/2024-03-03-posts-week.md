@@ -18,7 +18,7 @@ tags:
   - TSLA
 ---
 
-这周末整理一下以下几个标的：美元指数DXY，比特币BTCUSD，道指DJI，纳指IXIC，罗素RUT，标普SPX，石油，特斯拉。
+这周末整理一下以下几个标的：美元指数DXY，道指DJI，纳指IXIC，标普SPX，石油，特斯拉。
 
 ## 美元指数DXY
 
