@@ -15,8 +15,8 @@ tags:
 
 最近几天跟着大师兄实盘操作了veri，下图是操作复盘总结。
 
-![veri-20240315](/assets/images/2024/2024-03-15-veri.png)
-<small><center>U日线图（截止2024/03/12）</center></small>　
+![veri-20240315](/assets/images/2024/2024-03-15-VERI.png)
+<small><center>VERI日线图（截止2024/03/12）</center></small>　
 
 ## 体会
 
