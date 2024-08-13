@@ -74,9 +74,9 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://omoney.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://omoney.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://omoney.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
 </picture>
 
 ### 引用 用>符号
@@ -93,8 +93,8 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 
 上面这表格在vs code里预览能正确显示。在github page上不能正确显示。
 
-| Rank | THING-TO-RANK | 第三栏目居中 |
-|-----:|:--------------|:-----------|
+| Rank | THING-TO-RANK | 第三栏目居中居中居中居中居中居中 |
+|-----:|:--------------|:-----------:|
 |     1|     靠左边     | 一段居中排列的话1 |
 |     2|     第二个     | 一段居中排列的话2 |
 |     3|     第三个     | 一段居中排列的话3 |
@@ -116,36 +116,18 @@ ______
 
 ### 脚注 （不正确显示）
 这句话包括一个脚注明。[^1]
-[^1]: 第一个脚注。
 
 下面是我从GH里copy来的一段：
-Here is a simple footnote[^1].
+Here is a simple footnote[^2].
 
-A footnote can also have multiple lines[^2].
+A footnote can also have multiple lines[^3].
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+[^1]: 第一个脚注明。 .  
+[^2]: My reference.
+[^3]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-
-### 几种警告的格式：
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-### 路径图
+### 路径图 （在GH上都不能正确显示）
 
 Here is a simple flow chart:
 
@@ -173,21 +155,92 @@ I need to highlight these ==very important words==.
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|    1 | JavaScript|
+|    2 | Python    |
+|    3 | SQL       |
 
 </details>
 
-### 几种底色形式的notice
+### 几种底色形式的notice （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，对class的定义？）
+
 
 <div class="notice--info">
   <p>这是information类的notice</p>
 </div>
-
 <div class="notice--danger">
   <p>这是danger类的notice</p>
 </div>
+
+下面是来自于bootstrap对alert的语法：
+<div class="alert alert-primary" role="alert">
+  This is a primary alert—check it out!
+</div>
+<div class="alert alert-secondary" role="alert">
+  This is a secondary alert—check it out!
+</div>
+<div class="alert alert-success" role="alert">
+  This is a success alert—check it out!
+</div>
+<div class="alert alert-danger" role="alert">
+  This is a danger alert—check it out!
+</div>
+<div class="alert alert-warning" role="alert">
+  This is a warning alert—check it out!
+</div>
+<div class="alert alert-info" role="alert">
+  This is a info alert—check it out!
+</div>
+<div class="alert alert-light" role="alert">
+  This is a light alert—check it out!
+</div>
+<div class="alert alert-dark" role="alert">
+  This is a dark alert—check it out!
+</div>
+
+### GH DOC网站上记载的格式在GH上却不能正确显示😄
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+去掉前面的括号看看行不行：
+
+[!CAUTION]
+Advises about risks or negative outcomes of certain actions.
+
+
+### 按钮 （来自于bootstrap）
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
+
+<button type="button" class="btn btn-link">Link</button>
+
+按钮group：
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+
+### Carousel
+A slideshow component for cycling through elements—images or slides of text—like a carousel.
 
 ### 用HTML代码
 ```
