@@ -64,9 +64,16 @@
 
 ### 表格的制作
 | Syntax Expression | Long Description | Other Notes Included |
-| :----------- | :-----------: | -----------: |
+|:-----------|:-----------:|-----------:|
 | Header | Title | Items |
 | Paragraph | Text | Note |
+
+| Rank | THING-TO-RANK |
+|-----:|:--------------|
+|     1|     第一个     |
+|     2|     第二个     |
+|     3|     第三个     |
+
 
 ### 水平线制作 用三个“-”"*""_"符号都可以
 
