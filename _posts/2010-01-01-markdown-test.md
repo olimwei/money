@@ -118,5 +118,85 @@ I need to highlight these ==very important words==.
 </details>
 ``` 
 ### 其它
-如何输入平方/立方？
-H~2~O, X^2, Y^3
+$H_2$ O, $X^2$, $Y^3$
+
+$H_2$ O; $3^4$; 5<sup>2</sup>; H<sub>2</sub>O
+
+$\alpha$ $\beta$ $\delta$ $\gamma$ $\epsilon$ $\zeta$ $\eta$ $\theta$ $\iota$ $\kappa$ $\lambda$ $\mu$ $\nu$ $\xi$ $\pi$ $\rho$ $\sigma$ $\tau$ $\upsilon$ $\phi$ $\chi$ $\psi$ $\omega$
+
+$\infty$; $+\infty$; $-\infty$
+
+$\frac{3+8a}{5b+6}$
+
+$\sum{3x^n}$
+
+$\sum_{n=1}^N{3x^n}$
+
+$\prod{3x^n}$
+
+$\prod_{n=1}^N{3x^n}$
+
+$\sqrt[5]{100}$
+
+$\int^5_1{f(x)}{\rm d}x$
+
+$\iint^5_1{f(x)}{\rm d}x$
+
+$\iiint^5_1{f(x)}{\rm d}x$
+
+$\lim_{n\rightarrow+\infty} n$
+
+$\geq$; $\leq$; $\subset$; $\supset$; $\in$; $\pm$; $\cdot$ $\times$ $\div$ $\not=$ $\not<$ $\not\supset$ $\log$ $\ln$ $\bot$ $\angle$ $30^\circ$ $\sin$ $\cos$ $\tan$ $\leftarrow$ $\rightarrow$ $\uparrow$ $\downarrow$ $\longrightarrow$ 
+
+$\log_2{18}$ 
+
+$
+  \begin{matrix}
+   1 & 2 & 3 \\\
+   4 & 5 & 6 \\\
+   7 & 8 & 9
+  \end{matrix}
+$
+
+$
+ \begin{Bmatrix}
+   1 & 2 & 3 \\\
+   4 & 5 & 6 \\\
+   7 & 8 & 9
+  \end{Bmatrix}
+$
+
+$
+ \begin{bmatrix}
+   1 & 2 & 3 \\\
+   4 & 5 & 6 \\\
+   7 & 8 & 9
+  \end{bmatrix}
+$
+
+$
+\left[
+\begin{matrix}
+ 1      & 2      & \cdots & 4      \\\
+ 7      & 6      & \cdots & 5      \\\
+ \vdots & \vdots & \ddots & \vdots \\\
+ 8      & 9      & \cdots & 0      \\\
+\end{matrix}
+\right]
+$
+
+$\begin{bmatrix}
+{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\\
+{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\\
+{\vdots}&{\vdots}&{\ddots}&{\vdots}\\\
+{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\\
+\end{bmatrix}$
+
+$\begin{cases}
+a_1x+b_1y+c_1z=d_1\\\
+a_2x+b_2y+c_2z=d_2\\\
+a_3x+b_3y+c_3z=d_3\\\
+\end{cases}
+$
+
+
