@@ -1,9 +1,10 @@
 ---
 title: "markdown语法练习"
-layout: default-t
+layout: archive-t
 permalink: 
 collection: 
 excerpt: "markdown语法练习"
+author_profile: true
 toc: ture
 toc_sticky: true
 sidebar:

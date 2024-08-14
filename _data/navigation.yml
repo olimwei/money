@@ -259,5 +259,20 @@ main:
       - title: "099-走势结构的两重表里关系3"
         url: /chanlun/099/
 
-
+# documentation links
+XXX:
+  - title: "XXX首页"
+    url: /
+  - title: 子页
+    children:
+      - title: "子页1-about"
+        url: /about/
+      - title: "子页2-tags-AI"
+        url: /tags/#ai
+  - title: 扯蛋篇
+    children:
+      - title: "扯蛋1-转首页"
+        url: /
+      - title: "扯蛋2-转外网"
+        url: https://archiz.com
 
