@@ -1,6 +1,6 @@
 ---
 title: "markdown语法练习"
-layout: single
+layout: single-t
 permalink: 
 collection: 
 excerpt: "markdown语法练习"
