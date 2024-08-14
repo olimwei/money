@@ -1,12 +1,12 @@
 ---
 title: "markdown语法练习"
-layout: single
+layout: single-t
 permalink: 
 collection: 
 excerpt: "markdown语法练习"
 author_profile: true
 toc: ture
-toc_sticky: true
+toc_sticky: fasle
 sidebar:
   - title: "XXX"
     nav: XXX
