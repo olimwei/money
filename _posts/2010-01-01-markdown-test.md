@@ -1,6 +1,6 @@
 ---
 title: "markdown语法练习"
-layout: archive-t
+layout: single
 permalink: 
 collection: 
 excerpt: "markdown语法练习"
@@ -8,9 +8,8 @@ author_profile: true
 toc: ture
 toc_sticky: true
 sidebar:
-  - title: "教你炒股票108课"
-    text: "市场哲学的数学原理"
-    nav: 108
+  - title: "XXX"
+    nav: XXX
 ---
 
 https://github.github.com/gfm/ 这是GH喜欢的格式
