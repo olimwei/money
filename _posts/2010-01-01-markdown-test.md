@@ -5,10 +5,9 @@ permalink:
 collection: 
 excerpt: "markdown语法练习"
 author_profile: true
-toc: ture
-toc_sticky: fasle
+toc: fasle
 sidebar:
-  - title: "XXX"
+  - title: 
     nav: XXX
 ---
 
@@ -56,13 +55,14 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 ```
 
 ### 链接
+
 #### 第一种方法（可以正确显示）
 [文字链接1](http://olim.ca)
 
 #### 第2种方法（也可以）
-[文字链接]: http://google.com
+[文字链接]: http://archiz.com
 
-[文字链接2-谷歌][文字链接]
+[文字链接2-阿齐兹][文字链接]
 
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
 
@@ -76,7 +76,7 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 下面图片在GH page不能正确显示，在VS code预览能正确显示（这里用了文件的相对路径的时候/前面多了两个点）
 ![测试图片](../assets/images/2024/2024-05-31-DXY-fl.jpg)
 
-> 疑问：如何限制图片显示的尺寸？
+> 疑问：如何限制图片显示的尺寸？（用css来规范）
 
 下面是用HTML的picture格式来规定图片的显示：
 
@@ -87,10 +87,49 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://money.olim.ca/assets/images/2024b/AI-20240813-comments-1.png">
   <source media="(prefers-color-scheme: light)" srcset="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://money.olim.ca/assets/images/2024/2024-05-31-DXY-fl.jpg">
 </picture>
+
+### 插入视频
+这里采用两种方法
+#### 用html的video标签
+`<video src="本地视频路径"></video>`
+
+#### 用iframe
+```
+<iframe 
+src="视频或者网页路径" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+```
+
+<!-- 21:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-21by9">
+  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+</div>
+
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+</div>
+
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+</div>
+
+<!-- 1:1 aspect ratio -->
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+</div>
 
 ### 引用 用>符号
 
@@ -99,12 +138,13 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 > 2. 引用内容里包括的列表2
 
 ### 表格的制作
-| Syntax Expression | Long Description | Other Notes Included |
+
+| SyntaxExpression | LongDescription | OtherNotesIncluded |
 |:-----------|:-----------:|-----------:|
 | Header | Title | Items |
 | Paragraph | Text | Note |
 
-上面这表格在vs code里预览能正确显示。在github page上不能正确显示。试过好多次不行。下面就没问题，奇怪。
+上面这表格在vs code里预览能正确显示。在github page上不能正确显示。试过好多次不行。下面就没问题，太奇怪。
 
 | 第二栏目居右 | 第二栏目居左居左 | 第三栏目居中居中居中居中居中居中 |
 |-----:|:--------------|:-----------:|
@@ -124,7 +164,7 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 
 ******
 
-第三种水平线（三个下划线，有时候有问题。我这里用了6个下划线）
+第三种水平线（三个下划线，有时候有问题。我这里用了6个下划线.....不要考虑！）
 ______
 
 ### 脚注 （不正确显示）
@@ -152,8 +192,9 @@ graph TD;
 ```
 
 ### 高亮选择的段落 （检查是否正确显示）
+
 1. 用“==”在所选段落的前后 （这种方法在github不工作）
-2. 用<mark></mark>语言 （这个可以）
+2. 用<mark>mark</mark>语言 （这个可以）
 
 I need to highlight these ==very important words==.
 我需要高亮==这段重要的话。==
@@ -173,7 +214,11 @@ I need to highlight these ==very important words==.
 
 </details>
 
-### 几种底色形式的notice（bootstrap里叫alert） （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，对class的定义？）
+上面点开显示的table格式有问题，这是copy前面能显示正确的table，放在这里却不能正常显示了。。。。这是一个需要解决的“问题”。。。
+
+### 几种底色形式的notice
+
+（在bootstrap里叫alert） （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，后来通过直接外接bootstrap的css就统一了。）
 
 <div class="notice">
   <p>这是没有表明类别的notice</p>
@@ -193,8 +238,8 @@ I need to highlight these ==very important words==.
 <div class="notice--warning">
   <p>这是warning类的notice</p>
 </div>
+上面是自己在本地css的定义。。。下面是来自于bootstrap对alert的语法：
 
-下面是来自于bootstrap对alert的语法：
 <div class="alert alert-primary" role="alert">
   This is a primary alert—check it out!
 </div>
@@ -220,7 +265,8 @@ I need to highlight these ==very important words==.
   This is a dark alert—check it out!
 </div>
 
-### GH DOC网站上记载的格式在GH上却不能正确显示😄
+而GH DOC网站上记载的alert格式在GH上却不能正常显示😄。。。可能是设置相互冲突或missing。
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -243,6 +289,7 @@ Advises about risks or negative outcomes of certain actions.
 
 
 ### 按钮 （来自于bootstrap）
+
 <button type="button" class="btn btn-primary">Primary</button>
 <button type="button" class="btn btn-secondary">Secondary</button>
 <button type="button" class="btn btn-success">Success</button>

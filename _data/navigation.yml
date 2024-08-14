@@ -263,12 +263,12 @@ main:
 XXX:
   - title: "XXX首页"
     url: /
-  - title: 子页
+  - title: 子页篇
     children:
       - title: "子页1-about"
         url: /about/
-      - title: "子页2-tags-AI"
-        url: /tags/#ai
+      - title: "子页2-tags"
+        url: /tags/
   - title: 扯蛋篇
     children:
       - title: "扯蛋1-转首页"
