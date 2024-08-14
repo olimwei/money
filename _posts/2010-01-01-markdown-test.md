@@ -1,3 +1,17 @@
+---
+title: "markdown语法练习"
+layout: single
+permalink: 
+collection: 
+excerpt: "markdown语法练习"
+toc: ture
+toc_sticky: true
+sidebar:
+  - title: "教你炒股票108课"
+    text: "市场哲学的数学原理"
+    nav: 108
+---
+
 https://github.github.com/gfm/ 这是GH喜欢的格式
 
 # 大标题 大小有6个级别的标题
@@ -163,13 +177,25 @@ I need to highlight these ==very important words==.
 
 ### 几种底色形式的notice （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，对class的定义？）
 
-
+<div class="notice">
+  <p>这是没有表明类别的notice</p>
+</div>
+<div class="notice--primary">
+  <p>这是primary类的notice</p>
+</div>
 <div class="notice--info">
   <p>这是information类的notice</p>
 </div>
 <div class="notice--danger">
   <p>这是danger类的notice</p>
 </div>
+<div class="notice--success">
+  <p>这是success类的notice</p>
+</div>
+<div class="notice--warning">
+  <p>这是warning类的notice</p>
+</div>
+
 
 下面是来自于bootstrap对alert的语法：
 <div class="alert alert-primary" role="alert">
