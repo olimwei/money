@@ -5,7 +5,8 @@ permalink:
 collection: 
 excerpt: "markdown语法练习"
 author_profile: true
-toc: fasle
+toc: ture
+toc_sticky: true
 sidebar:
   - title: 
     nav: XXX
@@ -111,24 +112,35 @@ width=800>
 </iframe>
 ```
 
+<iframe 
+src="/assets/video/blooming.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+
 <!-- 21:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-21by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
 
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
 
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
 
 <!-- 1:1 aspect ratio -->
 <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="https://youtu.be/9sWeNbHPDzk?si=fnVXgsm0oFpZuqEC"></iframe>
+  <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
 
 ### 引用 用>符号
@@ -331,13 +343,13 @@ it requires util.js.
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="..." alt="First slide">
+      <img class="d-block w-100" src="/assets/images/2024b/AI-20240808-comments-1.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Second slide">
+      <img class="d-block w-100" src="/assets/images/2024b/AI-20240809-comments-1.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
+      <img class="d-block w-100" src="/assets/images/2024b/AI-20240812-comments-1.png" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
