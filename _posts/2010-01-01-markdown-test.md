@@ -1,6 +1,6 @@
 ---
 title: "markdown语法练习"
-layout: single-t
+layout: default-t
 permalink: 
 collection: 
 excerpt: "markdown语法练习"
@@ -59,10 +59,9 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 #### 第一种方法（可以正确显示）
 [文字链接1](http://olim.ca)
 
-#### 第一种方法（不可以正确显示）
+#### 第2种方法（也可以）
 [文字链接]: http://google.com
 
-#### 第一种方法（不可以正确显示）
 [文字链接2-谷歌][文字链接]
 
 图片链接和文字链接不同的是前面有个感叹号。可以加鼠标移动到图片时显示的文字。
@@ -105,13 +104,13 @@ https://github.github.com/gfm/ 这是GH喜欢的格式
 | Header | Title | Items |
 | Paragraph | Text | Note |
 
-上面这表格在vs code里预览能正确显示。在github page上不能正确显示。
+上面这表格在vs code里预览能正确显示。在github page上不能正确显示。试过好多次不行。下面就没问题，奇怪。
 
-| Rank | THING-TO-RANK | 第三栏目居中居中居中居中居中居中 |
+| 第二栏目居右 | 第二栏目居左居左 | 第三栏目居中居中居中居中居中居中 |
 |-----:|:--------------|:-----------:|
-|     1|     靠左边     | 一段居中排列的话1 |
-|     2|     第二个     | 一段居中排列的话2 |
-|     3|     第三个     | 一段居中排列的话3 |
+|     1|     靠左边     | 居中排列的话1 |
+|     2|     靠左左     | 居中排列的话2 |
+|     3|     左左左     | 居中排列的话3 |
 
 表格老是会出现这样或那样的问题。！
 
@@ -138,8 +137,7 @@ A footnote can also have multiple lines[^3].
 
 [^1]: 第一个脚注明。 .  
 [^2]: My reference.
-[^3]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^3]: To add line breaks within a footnote, prefix new lines with 2 spaces.   This is a second line.这里脚注显示两行出现问题。
 
 ### 路径图 （在GH上都不能正确显示）
 
@@ -165,17 +163,17 @@ I need to highlight these ==very important words==.
 ### 点击展开更多内容：
 
 <details>
-<summary>My top languages</summary>
+<summary>这里copy了那个正确显示的table</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|    1 | JavaScript|
-|    2 | Python    |
-|    3 | SQL       |
+| 第二栏目居右 | 第二栏目居左居左 | 第三栏目居中居中居中居中居中居中 |
+|-----:|:--------------|:-----------:|
+|     1|     靠左边     | 居中排列的话1 |
+|     2|     靠左左     | 居中排列的话2 |
+|     3|     左左左     | 居中排列的话3 |
 
 </details>
 
-### 几种底色形式的notice （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，对class的定义？）
+### 几种底色形式的notice（bootstrap里叫alert） （（在GH上能正确显示，通过GH转由netlify发布就不能正确显示，对class的定义？）
 
 <div class="notice">
   <p>这是没有表明类别的notice</p>
@@ -195,7 +193,6 @@ I need to highlight these ==very important words==.
 <div class="notice--warning">
   <p>这是warning类的notice</p>
 </div>
-
 
 下面是来自于bootstrap对alert的语法：
 <div class="alert alert-primary" role="alert">
@@ -239,7 +236,7 @@ I need to highlight these ==very important words==.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-去掉前面的括号看看行不行：
+去掉前面的括号看看行不行：（证明了，不行😄）
 
 [!CAUTION]
 Advises about risks or negative outcomes of certain actions.
