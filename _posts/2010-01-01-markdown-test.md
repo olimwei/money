@@ -124,6 +124,7 @@ width=800>
 </iframe>
 
 <!-- 21:9 aspect ratio -->
+```
 <div class="embed-responsive embed-responsive-21by9">
   <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
@@ -134,14 +135,15 @@ width=800>
 </div>
 
 <!-- 4:3 aspect ratio -->
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
-</div>
+ <div class="embed-responsive embed-responsive-4by3">
+   <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
+ </div>
 
 <!-- 1:1 aspect ratio -->
 <div class="embed-responsive embed-responsive-1by1">
   <iframe class="embed-responsive-item" src="/assets/video/blooming.mp4"></iframe>
 </div>
+```
 
 ### 引用 用>符号
 
@@ -176,7 +178,7 @@ width=800>
 
 ******
 
-第三种水平线（三个下划线，有时候有问题。我这里用了6个下划线.....不要考虑！）
+第三种水平线（三个下划线，有问题。不要考虑！）
 ______
 
 ### 脚注 （不正确显示）
@@ -191,7 +193,7 @@ A footnote can also have multiple lines[^3].
 [^2]: My reference.
 [^3]: To add line breaks within a footnote, prefix new lines with 2 spaces.   This is a second line.这里脚注显示两行出现问题。
 
-### 路径图 （在GH上都不能正确显示）
+### 路径图 （在GH上都不能正确显示,可能是要加载mermaid）
 
 Here is a simple flow chart:
 
@@ -250,7 +252,7 @@ I need to highlight these ==very important words==.
 <div class="notice--warning">
   <p>这是warning类的notice</p>
 </div>
-上面是自己在本地css的定义。。。下面是来自于bootstrap对alert的语法：
+上面是自己在本地css的定义。。。下面是来自于bootstrap对alert的语法（需要加载bootstrap的js和css文件）：
 
 <div class="alert alert-primary" role="alert">
   This is a primary alert—check it out!
@@ -294,12 +296,6 @@ I need to highlight these ==very important words==.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-去掉前面的括号看看行不行：（证明了，不行😄）
-
-[!CAUTION]
-Advises about risks or negative outcomes of certain actions.
-
-
 ### 按钮 （来自于bootstrap）
 
 <button type="button" class="btn btn-primary">Primary</button>
@@ -313,7 +309,7 @@ Advises about risks or negative outcomes of certain actions.
 
 <button type="button" class="btn btn-link">Link</button>
 
-按钮group：
+按钮group：（来自于bootstrap）
 
 <div class="btn-group" role="group" aria-label="Basic example">
   <button type="button" class="btn btn-secondary">Left</button>
@@ -321,7 +317,7 @@ Advises about risks or negative outcomes of certain actions.
   <button type="button" class="btn btn-secondary">Right</button>
 </div>
 
-### Badge
+### Badge （来自于bootstrap）
 
 <h1>Example heading <span class="badge badge-secondary">New</span></h1>
 <h2>Example heading <span class="badge badge-secondary">New</span></h2>
@@ -333,7 +329,7 @@ Advises about risks or negative outcomes of certain actions.
 ### Carousel
 A slideshow component for cycling through elements—images or slides of text—like a carousel.
 
-it requires util.js.
+it requires **util.js.**
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -373,7 +369,6 @@ it requires util.js.
 <a href="https://github.com/im-luka">Follow me on GitHub</a>
 
 <br />
-<br />
 
 <p>Quick hack for <strong><em>centering image</em></strong>?</p>
 <p align="center"><img src="auto-generated-path-to-file-when-you-upload-image" /></p>
@@ -392,16 +387,14 @@ hex，rgb， hsl
 The background color is `#ffffff` for light mode and `rgb(9, 105, 218)` for blue and `hsl(212, 92%, 45%)`for  blue mode again.
 
 ### 其它
-$H_2$ O, $X^2$, $Y^3$
+$$H_2$$ O, $$X^2$$, $$Y^3$$
 
 $`H_2`$ O; $`3^4`$; （看看这种方法是否可行）
 
-只有下面这种方式可以正确显示：(用sub sup)
+只有下面这种方式可以正确显示：(用sub sup标签)
 5<sup>2</sup>; H<sub>2</sub>O
 
-下面的全部在github page上不能正确显示但在vs code预览里面正确显示。（我把`$`符号前后加了一个\`符号，看看效果）
-
-$`\alpha`$ 
+下面的全部在github page上不能正确显示但在vs code预览里面正确显示。
 
 $\alpha$ $\beta$ $\delta$ $\gamma$ $\epsilon$ $\zeta$ $\eta$ $\theta$ $\iota$ $\kappa$ $\lambda$ $\mu$ $\nu$ $\xi$ $\pi$ $\rho$ $\sigma$ $\tau$ $\upsilon$ $\phi$ $\chi$ $\psi$ $\omega$
 
