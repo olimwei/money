@@ -1,7 +1,7 @@
 ---
 title: "股票运行时间周期发现小规律"
 layout: blog
-excerpt: "C3.Ai股票走势逐日跟踪2024/08/19～2024/08/23"
+excerpt: "没事就想着折腾，打开标普日线图，盯着k bar上下缠绵，突然想，走势如生命，而生命的生坏住灭是随着时间逐步展开的，会不会背后有个大约的“寿命”周期？"
 header:
   image: 
   teaser: /assets/images/teaser/时间周期-th.jpg

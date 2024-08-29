@@ -1,15 +1,9 @@
 ---
 title: "C3.AI股票走势跟踪2024/08/19～2024/08/23"
-layout: blog
-excerpt: "C3.Ai股票走势逐日跟踪2024/08/19～2024/08/23"
+excerpt: "c3.ai今天走势落后于大盘，低点进入下面扩展中枢的波动区间，但未破25.24，目前在新的台阶上做新的扩展中枢。"
 header:
   image: 
-  teaser: /assets/images/teaser/AI-20240823-m5-c-th.png
-read_time: true
-comments: true
-share: true
-author_profile: true
-classes: wide
+  teaser: /assets/images/teaser/000000000000XXX-th.png
 categories:
   - 选股
 tags:
