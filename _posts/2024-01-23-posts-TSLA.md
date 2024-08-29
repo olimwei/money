@@ -19,7 +19,7 @@ tags:
 
 从做多角度可视今天低点为红上2买参与，止损206。
 
-![TSLA特斯拉20240123](/assets/images/2024/2024-01-23-TSLA.jpg)
+![TSLA特斯拉20240123](https://file.olim.in/img/2024/2024-01-23-TSLA.jpg)
 <small><center>特斯拉TSLA30分钟K线图（截止2024/1/23）</center></small>　
 
 明天是特斯拉财报，让我们看是不是“走势到，消息到”。拭目以待。
