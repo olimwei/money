@@ -23,26 +23,26 @@ tags:
 
 美元指数DXY从日均线图上看，在年线MA250附近盘整两周多后选择继续向上突破，目前MA5/10呈女上位，周五收在MA5之下，MACD在零轴之上快慢线开口向上，涨势未尽，短线需整理。
 
-![DXY美元指数20240209](https://file.olim.in/img/2024/2024-02-09-DXY-day.png)
+![DXY美元指数20240209](/assets/images/2024/2024-02-09-DXY-day.png)
 <small><center>美元指数DXY日线图（截止2024/02/09）</center></small>　
 
 美元指数DXY四小时缠图上，低位上来的红上内部形成一个红色中枢后，上周形成3买。当下在构建第二个红色中枢，下周关注能否成功构建一个和第一个红色中枢波动区间完全无重合的新中枢，如下破蓝5高点，则中枢扩展，下面第一个红色中枢被扩展成更大级别中枢。
 
-![DXY美元指数20240209](https://file.olim.in/img/2024/2024-02-09-DXY-hour.png)
+![DXY美元指数20240209](/assets/images/2024/2024-02-09-DXY-hour.png)
 <small><center>美元指数DXY四小时图（截止2024/02/09）</center></small>　
 
 ## 道指DJI
 
 美股道指上周先回调再继续上行，但未突破上上周高点，MA5/10靠拢仍呈女上位。短线关注MA5支撑。MACD在零轴之上，股价近期创新高MACD并未创新高，有背离，MACD绿色动能柱接近零轴，短线有调整压力。因MACD快慢线仍远在在零轴之上，上涨动能未尽。短线关注MA5和MA10男女体位是否能转换，中线关注快慢线在零轴之处是否获得支撑，对应的大致是下面MA50的支撑。
 
-![DJI道指20240209](https://file.olim.in/img/2024/2024-02-09-DJI-day.png)
+![DJI道指20240209](/assets/images/2024/2024-02-09-DJI-day.png)
 <small><center>道指DJI日线图（截止2024/02/09）</center></small>　
 
 ## 纳指IXIC
 
 上周纳指走势较强，再创新高，下图所有均线组呈多图排列，MA5/10湿吻后再次向上离开。MACD快慢线在零轴之上呈现有背离形态，绿柱子扩大但高度低于前一波绿柱高点。
 
-![IXIC纳指20240209](https://file.olim.in/img/2024/2024-02-09-IXIC-j.png)
+![IXIC纳指20240209](/assets/images/2024/2024-02-09-IXIC-j.png)
 <small><center>纳指IXIC日线图（截止2024/02/09）</center></small>　
 
 在日线缠图上看上周的上涨使得图中的小c和小b已无背驰。
@@ -51,19 +51,19 @@ tags:
 
 今后因为小c已和小b无背驰，我们可以不再从绿色上何时结束以区间套的方式找大级别卖点，重点跟随离开段小c如何生长。
 
-![IXIC纳指20240209](https://file.olim.in/img/2024/2024-02-09-IXIC-c.png)
+![IXIC纳指20240209](/assets/images/2024/2024-02-09-IXIC-c.png)
 <small><center>纳指IXIC日线图（截止2024/02/09）</center></small>　
 
 ## 罗素RUT
 
 上周罗素走势较强，目前已形成一个绿色中枢，仍在前期高级别蓝色中枢上边缘附近横盘震荡，接下来以是否对最近的绿色中枢进行向上或向下的破坏作为完全分类观察点。
 
-![RUT罗素20240209](https://file.olim.in/img/2024/2024-02-09-RUT.png)
+![RUT罗素20240209](/assets/images/2024/2024-02-09-RUT.png)
 <small><center>罗素RUT日线图（截止2024/02/02）</center></small>　
 
 日均线图上显示的是MA5/10均线缠绕，在MA50处获得支撑向上离开，MA5/10有望再次形成金叉。MACD快慢线在零轴之上获得支撑，有望再次向上金叉。
 
-![RUT罗素20240209](https://file.olim.in/img/2024/2024-02-09-RUT-j.png)
+![RUT罗素20240209](/assets/images/2024/2024-02-09-RUT-j.png)
 <small><center>罗素RUT日线图（截止2024/02/02）</center></small>　
 
 ## 标普SPX
@@ -72,7 +72,7 @@ tags:
 
 蓝5内部构建了一个蓝色中枢后向上形成3买离开，我们接下来几天根据3买之后的三种完全分类来跟随走势的生长情况。具体见下图。
 
-![SPX标普20240209](https://file.olim.in/img/2024/2024-02-09-SPX-minute.png)
+![SPX标普20240209](/assets/images/2024/2024-02-09-SPX-minute.png)
 <small><center>标普SPX十五分钟图（截止2024/02/09）</center></small>　
 
 ## 小结

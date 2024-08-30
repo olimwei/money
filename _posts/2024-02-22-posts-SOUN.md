@@ -20,7 +20,7 @@ Ai类个股SOUN均线及缠图分析和推演。
 
 第二次冲击携量年线。接下来要站稳年线，强势是横盘等均线。
 
-![SOUN-20240222](https://file.olim.in/img/2024/2024-02-22-SOUN-1.png)
+![SOUN-20240222](/assets/images/2024/2024-02-22-SOUN-1.png)
 <small><center>SOUN日线图（截止2024/02/22）</center></small>　
 
 
@@ -28,10 +28,10 @@ Ai类个股SOUN均线及缠图分析和推演。
 
 带量试图离开底部大级别中枢。
 
-![SOUN-20240222](https://file.olim.in/img/2024/2024-02-22-SOUN-2.png)
+![SOUN-20240222](/assets/images/2024/2024-02-22-SOUN-2.png)
 <small><center>SOUN日线图（截止2024/02/22）</center></small>
 
-![SOUN-20240222](https://file.olim.in/img/2024/2024-02-22-SOUN-3.png)
+![SOUN-20240222](/assets/images/2024/2024-02-22-SOUN-3.png)
 <small><center>SOUN日线图（截止2024/02/22）</center></small>
 
 
