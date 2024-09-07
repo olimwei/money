@@ -1,7 +1,7 @@
 ---
 title: "2024-09-06-最气魄的咖啡"
 layout: blog
-excerpt: "先看周线图如下：MA5重新上穿MA10，所有均线组呈多头排列。注意MACD快慢线高位死叉后尚未发生金叉，红柱子在缩短尚未转绿。"
+excerpt: "又跑到世界名楼牡丹楼（Mcdonald）去点一杯今夏最气魄（cheap）的冰咖啡，发现酬宾计划已被取消，不禁黯然神伤。。。既然来了，不妨稍坐片刻，毕竟福瑞Wi-Fi还是有的。"
 header:
   image: 
   teaser: /assets/images/teaser/时间周期-th.png
