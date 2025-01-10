@@ -397,7 +397,7 @@ compress_html:
       related: true
   # _mzfx
   - scope:
-      path: "_lmzfx"
+      path: "_mzfx"
       type: mzfx
     values:
       layout: single
