@@ -16,4 +16,4 @@ sidebar:
     nav: sidebar-sample
 ---
 
-Sample document listing for the collection `_thought`.
+Sample document listing for the collection `_thoughts`.

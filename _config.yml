@@ -345,7 +345,68 @@ compress_html:
       share: true
       comments: true
       related: true
-      
+  # _lunyu
+  - scope:
+      path: "_lunyu"
+      type: lunyu
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+  # _kmly
+  - scope:
+      path: "_kmly"
+      type: kmly
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+  # _dingfan
+  - scope:
+      path: "_dingfan"
+      type: dingfan
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+  # _hwmks
+  - scope:
+      path: "_hwmks"
+      type: hwmks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+  # _hbzz
+  - scope:
+      path: "_hbzz"
+      type: hbzz
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+  # _mzfx
+  - scope:
+      path: "_lmzfx"
+      type: mzfx
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+                  
+
 # Collections
 collections:
   docs:
@@ -364,5 +425,23 @@ collections:
     output: true
     permalink: /:collection/:path/
   chanlun:
+    output: true
+    permalink: /:collection/:path/
+  lunyu:
+    output: true
+    permalink: /:collection/:path/
+  kmly:
+    output: true
+    permalink: /:collection/:path/
+  dingfan:
+    output: true
+    permalink: /:collection/:path/
+  hwmks:
+    output: true
+    permalink: /:collection/:path/
+  hbzz:
+    output: true
+    permalink: /:collection/:path/
+  lmzfx:
     output: true
     permalink: /:collection/:path/

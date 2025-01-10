@@ -26,9 +26,18 @@ main:
     url: /about/
   - title: "缠论108课"
     url: /chanlun/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-
+  - title: "顶翻"
+    url: /dingfan/
+  - title: "捍卫"
+    url: /hwmks/
+  - title: "民族复兴"
+    url: /mzfx/
+  - title: "货币战争"
+    url: /hbzz/
+  - title: "论语"
+    url: /lunyu/
+  - title: "枯木龙吟"
+    url: /kmly/
 
 # documentation links
 108:
@@ -258,6 +267,326 @@ main:
         url: /chanlun/093/
       - title: "099-走势结构的两重表里关系3"
         url: /chanlun/099/
+
+lunyu:
+  - title: "000-什么才是真《论语》"
+    url: /lunyu/
+  - title: "001-学而"
+    url: /lunyu/001/
+  - title: "002-学什么"
+    url: /lunyu/002/
+  - title: "003-学而时习之"
+    url: /lunyu/003/
+  - title: "004-有朋自远方来"
+    url: /lunyu/004/
+  - title: "005-人不知而不愠"
+    url: /lunyu/005/
+  - title: "006-论语总纲论述"
+    url: /lunyu/006/
+  - title: "007-论语与圣经"
+    url: /lunyu/007/
+  - title: "008-朝闻道夕死，可矣！"
+    url: /lunyu/008/
+  - title: "009-逝者如斯夫，不舍昼夜"
+    url: /lunyu/009/
+  - title: "010-人能弘道，非道弘人"
+    url: /lunyu/010/
+  - title: "011-攻乎异端，斯害也己"
+    url: /lunyu/011/
+  - title: "012-道，不同、不相为谋"
+    url: /lunyu/012/
+  - title: "013-有教无类"
+    url: /lunyu/013/
+  - title: "014-贫而无怨难；富而无骄易"
+    url: /lunyu/014/
+  - title: "015-未若贫而乐，富而好礼者也"
+    url: /lunyu/015/
+  - title: "016-齐一变，至於鲁；鲁一变，至於道"
+    url: /lunyu/016/
+  - title: "017-放于利而行，多怨"
+    url: /lunyu/017/
+  - title: "018-好勇疾贫，乱也。人而不仁，疾之已甚，乱也"
+    url: /lunyu/018/
+  - title: "019-善人为邦百年，亦可以胜残去杀矣。诚哉是言也！"
+    url: /lunyu/019/
+  - title: "020-如有王者，必世而后仁"
+    url: /lunyu/020/
+  - title: "021-庶、富、教"
+    url: /lunyu/021/
+  - title: "022-善人、教民七年，亦可以即戎矣"
+    url: /lunyu/022/
+  - title: "023-以不教民战，是谓弃之"
+    url: /lunyu/023/
+  - title: "024-夷狄之有君、不如，诸夏之亡也"
+    url: /lunyu/024/
+  - title: "025-为政以德譬，如北辰居其所而众星共之"
+    url: /lunyu/025/
+  - title: "026-政者，正也，子帅以正，孰敢不正"
+    url: /lunyu/026/
+  - title: "027-不在其位，不谋其政"
+    url: /lunyu/027/
+  - title: "028-君子思不出其位"
+    url: /lunyu/028/
+  - title: "029-不患，无位；患，所以立。不患，莫己知求，为可知也"
+    url: /lunyu/029/
+  - title: "030-不患人之不己知；患其不能也"
+    url: /lunyu/030/
+  - title: "031-不患人之不己知；患其不能也"
+    url: /lunyu/031/
+  - title: "032-性相，近也；习相，远也"
+    url: /lunyu/032/
+  - title: "033-人无远虑，必有近忧"
+    url: /lunyu/033/
+  - title: "034-众，恶之，必察焉；众，好之，必察焉"
+    url: /lunyu/034/
+  - title: "035-视，其所以；观，其所由；察，其所安。人焉廋哉？人焉廋哉？"
+    url: /lunyu/035/
+  - title: "036-不知，命无以为君子也；不知，礼无以立也；不知，言无以知人也"
+    url: /lunyu/036/
+  - title: "037-由知、德者，鲜矣！"
+    url: /lunyu/037/
+  - title: "038-民可，使由之；不可，使知之"
+    url: /lunyu/038/
+  - title: "039-由诲女，知之乎！知之为，知之；不知为，不知；是知也！"
+    url: /lunyu/039/
+  - title: "040-我非生而知之者，好古，敏以求之者也"
+    url: /lunyu/040/
+  - title: "041-生而知之者，上也；学而知之者，次也；困而学之，又其次也。困而不学，民斯为下矣！"
+    url: /lunyu/041/
+  - title: "042-盖有不知而作之者，我无是也。多闻，择其善者而从之；多见而识之；知之次也"
+    url: /lunyu/042/
+  - title: "043-多闻阙疑，慎言其余，则寡尤。多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔，禄在其中矣"
+    url: /lunyu/043/
+  - title: "044-君子谋道不谋食。耕也，馁在其中矣；学也，禄在其中矣。君子忧道不忧贫"
+    url: /lunyu/044/
+  - title: "045-君子不器"
+    url: /lunyu/045/
+  - title: "046-古之学者为己；今之学者为人"
+    url: /lunyu/046/
+  - title: "047-三年学不至，於榖不易，得也"
+    url: /lunyu/047/
+  - title: "048-学如不及，犹恐失之"
+    url: /lunyu/048/
+  - title: "049-学而不思则罔，思而不学则殆"
+    url: /lunyu/049/
+  - title: "050-唯！女子与小人为难、养也。近之则不孙，远之则怨"
+    url: /lunyu/050/
+  - title: "051-唯上知与下愚不移"
+    url: /lunyu/051/
+  - title: "052-温故而知新，可以为师矣"
+    url: /lunyu/052/
+  - title: "053-吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲不逾矩"
+    url: /lunyu/053/
+  - title: "054-君子，食无求饱，居无求安；敏於事而慎於言；就有，道而正焉；可谓好学也已"
+    url: /lunyu/054/
+  - title: "055-十室之邑，必有忠信如丘者焉，不如丘之好学也"
+    url: /lunyu/055/
+  - title: "056-三人行，必有我师焉：择其善者而从之，其不善者而改之"
+    url: /lunyu/056/
+  - title: "057-子夏曰：日知其所亡，月无忘其所能，可谓好学也已矣！"
+    url: /lunyu/057/
+  - title: "058-子夏曰：百工居肆以成其事；君子学以致其道。"
+    url: /lunyu/058/
+  - title: "059-有颜回者好学，不幸短命死矣！今也则亡。"
+    url: /lunyu/059/
+  - title: "060-先行其言而后从之"
+    url: /lunyu/060/
+  - title: "061-“其恕乎？己所不欲，勿施於人"
+    url: /lunyu/061/
+  - title: "062-“非也！予一以贯之"
+    url: /lunyu/062/
+  - title: "063-“有子曰：其为人也孝弟，而好犯上者，鲜矣；不好犯上，而好作乱者，未之有也。君子务本，本立而道生。孝弟也者，其为仁之本与！"
+    url: /lunyu/063/
+  - title: "064-“今之孝者，是谓能养。至於犬马，皆能有养；不敬，何以别乎"
+    url: /lunyu/064/
+  - title: "065-“父母唯其疾之忧"
+    url: /lunyu/065/
+  - title: "066-“父母在，不远游，游必有方"
+    url: /lunyu/066/
+  - title: "067-“君子喻於义，小人喻於利"
+    url: /lunyu/067/
+  - title: "068-“君子周而不比，小人比而不周"
+    url: /lunyu/068/
+  - title: "069-“君子和而不同；小人同而不和"
+    url: /lunyu/069/
+  - title: "070-“君子成，人之美；不成，人之恶。小人反是"
+    url: /lunyu/070/
+  - title: "071-“君子之於天下也，无适也，无莫也，义之於比"
+    url: /lunyu/071/
+
+dingfan:
+  - title: "000-缠中说禅经济学（序）"
+    url: /dingfan/
+  - title: "001-缠中说禅经济学（一）"
+    url: /dingfan/001/
+  - title: "002-缠中说禅经济学（二）"
+    url: /dingfan/002/
+  - title: "003-缠中说禅经济学（三）"
+    url: /dingfan/003/
+  - title: "004-缠中说禅经济学（四）"
+    url: /dingfan/004/
+  - title: "005-缠中说禅经济学（五）"
+    url: /dingfan/005/
+  - title: "006-缠中说禅经济学（六）"
+    url: /dingfan/006/
+  - title: "007-缠中说禅经济学（七）"
+    url: /dingfan/007/
+  - title: "008-缠中说禅经济学（八）"
+    url: /dingfan/008/
+  - title: "009-缠中说禅经济学（九）"
+    url: /dingfan/009/
+  - title: "010-缠中说禅经济学（十）"
+    url: /dingfan/010/
+  - title: "011-缠中说禅经济学（十一）"
+    url: /dingfan/011/
+  - title: "012-缠中说禅经济学（十二）"
+    url: /dingfan/012/
+  - title: "013-缠中说禅经济学（十三）"
+    url: /dingfan/013/
+  - title: "014-缠中说禅经济学（十四）"
+    url: /dingfan/014/
+  - title: "015-缠中说禅经济学（十五）"
+    url: /dingfan/015/
+  - title: "016-资本主义社会形态的二元经济结构"
+    url: /dingfan/016/
+  - title: "017-何谓二元经济结构"
+    url: /dingfan/017/
+
+kmly:
+  - title: "000-枯木龙吟照大千（序）"
+    url: /kmly/
+  - title: "001-枯木龙吟照大千（一）"
+    url: /kmly/001/
+  - title: "002-枯木龙吟照大千（二）"
+    url: /kmly/002/
+  - title: "003-枯木龙吟照大千（三）"
+    url: /kmly/003/
+  - title: "004-枯木龙吟照大千（四）"
+    url: /kmly/004/
+  - title: "005-枯木龙吟照大千（五）"
+    url: /kmly/005/
+  - title: "006-枯木龙吟照大千（六）"
+    url: /kmly/006/
+  - title: "007-枯木龙吟照大千（七）"
+    url: /kmly/007/
+  - title: "008-枯木龙吟照大千（八）"
+    url: /kmly/008/
+  - title: "009-枯木龙吟照大千（九）"
+    url: /kmly/009/
+  - title: "010-枯木龙吟照大千（十）"
+    url: /kmly/010/
+  - title: "011-枯木龙吟照大千（十一）"
+    url: /kmly/011/
+  - title: "012-枯木龙吟照大千（十二）"
+    url: /kmly/012/
+  - title: "013-枯木龙吟照大千（十三）"
+    url: /kmly/013/
+  - title: "014-枯木龙吟照大千（十四）"
+    url: /kmly/014/
+  - title: "015-枯木龙吟照大千（十五）"
+    url: /kmly/015/
+  - title: "016-枯木龙吟照大千（十六）"
+    url: /kmly/016/
+  - title: "017-枯木龙吟照大千（十七）"
+    url: /kmly/017/
+  - title: "018-枯木龙吟照大千（十八）"
+    url: /kmly/018/
+  - title: "019-枯木龙吟照大千（十九）"
+    url: /kmly/019/
+  - title: "020-枯木龙吟照大千（二十）"
+    url: /kmly/020/
+  - title: "021-枯木龙吟照大千（二十一）"
+    url: /kmly/021/
+  - title: "022-枯木龙吟照大千（二十二）"
+    url: /kmly/022/
+  - title: "023-枯木龙吟照大千（二十三）"
+    url: /kmly/023/
+  - title: "024-枯木龙吟照大千（二十四）"
+    url: /kmly/024/
+  - title: "025-枯木龙吟照大千（二十五）"
+    url: /kmly/025/
+  - title: "026-枯木龙吟照大千（二十六）"
+    url: /kmly/026/
+  - title: "027-陈建民《小大乘修空及密乘大手印、大圆满、禅宗辨微》之辨微"
+    url: /kmly/027/
+
+hwmks:
+  - title: "000-关于“捍卫马克思”、“顶翻东西经济学”两系列关系的声明"
+    url: /hwmks/
+  - title: "001-要捍卫的是马克思，而不是马克思主义！"
+    url: /hwmks/001/
+  - title: "002-最大的愚民是关于资本主义永恒的叫嚣！"
+    url: /hwmks/002/
+  - title: "003-市场经济必然是资本主义的！"
+    url: /hwmks/003/
+  - title: "004-无论私有制还是市场经济的社会主义都只能是龟毛兔角！"
+    url: /hwmks/004/
+  - title: "005-给所有曲解马克思的人（马克思哲学、经济学通俗讲义）"
+    url: /hwmks/005/
+  - title: "006-马克思，时代精神、世界良心！"
+    url: /hwmks/006/
+  - title: "007-货币与资本主义社会的三种幻影"
+    url: /hwmks/007/
+  - title: "008-那被淫乱的女佣"
+    url: /hwmks/008/
+  - title: "009-马克思意义社会主义实现的唯一渠道"
+    url: /hwmks/009/
+  - title: "010-共产主义需要被信仰吗？"
+    url: /hwmks/010/
+
+hbzz:
+  - title: "001-货币战争和人民币战略（上）"
+    url: /hbzz/
+  - title: "002-货币战争和人民币战略（下）"
+    url: /hbzz/002/
+  - title: "003-在与美圆的货币战争中，中国正越来越面对着战败的危险"
+    url: /hbzz/003/
+  - title: "004-中国货币战争中的“七七”事变！"
+    url: /hbzz/004/
+  - title: "005-《货币战争和人民币战略》续一 "
+    url: /hbzz/005/
+  - title: "006-《货币战争和人民币战略》续二 "
+    url: /hbzz/006/
+  - title: "007-《货币战争和人民币战略》续三 "
+    url: /hbzz/007/
+  - title: "008-《货币战争和人民币战略》续四 "
+    url: /hbzz/008/
+  - title: "009-《货币战争和人民币战略》续五 "
+    url: /hbzz/009/
+  - title: "010-《货币战争和人民币战略》续六 "
+    url: /hbzz/010/
+  - title: "011-《货币战争和人民币战略》续七 "
+    url: /hbzz/011/
+
+mzfx:
+  - title: "000-“天人合一”学说，一切中国式伪科学滋生的最大温床！"
+    url: /mzfx/
+  - title: "001-必须重新确立蒋介石在抗战中不可替代的历史功绩"
+    url: /mzfx/001/
+  - title: "002-旧中国尚有“清史稿”，新中国的“民国史”呢？"
+    url: /mzfx/002/
+  - title: "003-民国的合法性是中国联合国地位合法性的前提"
+    url: /mzfx/003/
+  - title: "004-不管怎样，民国就是二战的战胜国！"
+    url: /mzfx/004/
+  - title: "005-民国，是也只是中华民族历史上的一个朝代！"
+    url: /mzfx/005/
+  - title: "006-中华民族可能面临的重大机遇"
+    url: /mzfx/006/
+  - title: "007-野合，民族生命强悍之基，民族气运重振之始！"
+    url: /mzfx/007/
+  - title: "008-从为人民服务到为人民币服务是历史的巨大进步！"
+    url: /mzfx/008/
+  - title: "009-必要的民族主义，单纯、裸露地问题了！"
+    url: /mzfx/009/
+  - title: "010-毛泽东时代，要为中国教育的大倒退负责！"
+    url: /mzfx/010/
+  - title: "011-“五四”，中国历史发展的巨大陷阱！"
+    url: /mzfx/011/
+  - title: "012-为什么汉奸几乎都是从左派蜕变出来的"
+    url: /mzfx/012/
+  - title: "013-民族复兴周期与世界经济周期历史性共振下的国家地缘与货币战略"
+    url: /mzfx/013/
 
 # documentation links
 XXX:
