@@ -601,7 +601,7 @@ XXX:
   - title: 扯蛋篇
     children:
       - title: "扯蛋1-转首页"
-        url: /
+        url: https://olim.ca
       - title: "扯蛋2-转外网"
         url: https://archiz.com
 

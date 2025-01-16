@@ -442,6 +442,6 @@ collections:
   hbzz:
     output: true
     permalink: /:collection/:path/
-  lmzfx:
+  mzfx:
     output: true
     permalink: /:collection/:path/
