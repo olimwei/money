@@ -7,9 +7,10 @@ share: true
 author_profile: true
 classes: wide
 categories:
-  - 复盘
+  - 美股复盘
 tags:
   - TSLA
+  - 特斯拉
 toc: fasle
 ---
 

@@ -8,9 +8,10 @@ share: true
 author_profile: true
 classes: wide
 categories:
-  - 复盘
+  - 美股复盘
 tags:
   - TSLA
+  - 特斯拉
 ---
 
 自去年底28日冲高后特斯拉一路下跌，走出了一个有两个标准红色中枢的9段趋势下，今天高开进入最后红色中枢，宣告红6趋势下结束。 

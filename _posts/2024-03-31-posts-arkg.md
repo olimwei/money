@@ -15,6 +15,7 @@ tags:
   - NRIX
   - MASS
   - DNA
+  - ARKG
 ---
 
 缠学院即将开始针对生物科技领域的选股工作，个人从ARK基金里选出一些缠论上看可关注的个股：ADPT，BEAM，DNA，MASS，NRIX。
