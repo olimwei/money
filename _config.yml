@@ -24,8 +24,8 @@ description              : "欧耶关于美股投资和缠论的学习思考和�
 url                      : "https://money.olim.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "olimwei/money"
-teaser                   : "/assets/images/olim-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo-olim2.png"
+teaser                   : "https://image.olim.cc/olim-teaser.png" # path of fallback teaser image, e.g. "https://image.olim.cc/500x300.png"
+logo                     : "https://image.olim.cc/logo-olim2.png"
 masthead_title           : "钱商-欧耶美股复盘" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/olim-teaser.png" # Open Graph/Twitter default site image
+og_image                 : "https://image.olim.cc/olim-teaser.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "欧耶"
-  avatar           : "/assets/images/logo-olim-88x88.JPG"
+  avatar           : "https://image.olim.cc/logo-olim-88x88.JPG"
   bio              : "一个画图匠。画设计图，画股票走势图。"
   location         : "温哥华, 加拿大"
   email            :

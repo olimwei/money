@@ -3,7 +3,7 @@ title: "C3.AI股票走势跟踪2024/08/19～2024/08/23"
 excerpt: "c3.ai今天走势落后于大盘，低点进入下面扩展中枢的波动区间，但未破25.24，目前在新的台阶上做新的扩展中枢。"
 header:
   image: 
-  teaser: /assets/images/teaser/000000000000XXX-th.png
+  teaser: https://image.olim.cc/teaser/000000000000XXX-th.png
 categories:
   - 选股
 tags:
@@ -15,45 +15,45 @@ c3.ai股票走势逐日跟踪2024/08/19～2024/08/23。首发在缠学院AI股�
 
 ### 2024-08-19
 
-![AI缠图](/assets/images/2024b/AI-20240819-m5-c.png)
+![AI缠图](https://image.olim.cc/2024b/AI-20240819-m5-c.png)
 <small><center>AI五分钟缠图（截止2024/08/19）</center></small>
-![AI均线图](/assets/images/2024b/AI-20240819-d-j.png)
+![AI均线图](https://image.olim.cc/2024b/AI-20240819-d-j.png)
 <small><center>AI日线图（截止2024/08/19）</center></small>
 
 **当日点评**
 
 c3.ai今天走势落后于大盘，低点进入下面扩展中枢的波动区间，但未破25.24，目前在新的台阶上做新的扩展中枢。。。收在日线MA5和10之上，MA20之下。在均线夹缝中面临选择方向突破。。。后面可根据突破的方向进行操作。
 
-![当日点评截图](/assets/images/2024b/AI-20240819-comments-1.png)
+![当日点评截图](https://image.olim.cc/2024b/AI-20240819-comments-1.png)
 <small><center>当日点评截图（2024/08/19）</center></small>
 
 ### 2024-08-20
 
-![AI缠图](/assets/images/2024b/AI-20240820-m5-c.png)
+![AI缠图](https://image.olim.cc/2024b/AI-20240820-m5-c.png)
 <small><center>AI五分钟缠图（截止2024/08/20）</center></small>
 
 **当日点评**
 
 c3.ai今天选择向下突破，开启蓝9下。蓝9下内部黄下离开中枢已不背驰，目前在黄上中，除非小转大，否则会构建第二个浅蓝色中枢。。。关注蓝9下的完成形式和位置，不破前低可按照红上2买处理（只保证一个蓝上）；破前低如和蓝7形成背驰，可按照红上1买处理，但需要跟随确认红下结束；破前低不背驰，可继续等待红下背驰段。。。
 
-![当日点评截图](/assets/images/2024b/AI-20240820-comments-1.png)
+![当日点评截图](https://image.olim.cc/2024b/AI-20240820-comments-1.png)
 <small><center>当日点评截图（2024/08/20）</center></small>
 
 ### 2024-08-21
 
-![AI缠图](/assets/images/2024b/AI-20240821-m5-c.png)
+![AI缠图](https://image.olim.cc/2024b/AI-20240821-m5-c.png)
 <small><center>AI五分钟缠图（截止2024/08/21）</center></small>
 
 **当日点评**
 
 c3.ai今天构建了新的浅蓝色中枢。。。随后的黄下如不进入最近的浅蓝色中枢，可视为蓝上的3买。。。鉴于蓝9下第一个中枢的离开段凌厉无背驰，如在蓝10的3买小级别介入，要注意上方最近红色中枢的3卖压力。。。除非快速上涨上穿下跌浅蓝色中枢，未来蓝11不创新低或新低背驰，是相对较好入场点。
 
-![当日点评截图](/assets/images/2024b/AI-20240821-comments-1.png)
+![当日点评截图](https://image.olim.cc/2024b/AI-20240821-comments-1.png)
 <small><center>当日点评截图（2024/08/21）</center></small>
 
 ### 2024-08-23
 
-![AI缠图](/assets/images/2024b/AI-20240823-m5-c.png)
+![AI缠图](https://image.olim.cc/2024b/AI-20240823-m5-c.png)
 <small><center>AI五分钟缠图（截止2024/08/23）</center></small>
 
 **当日点评**
@@ -62,7 +62,7 @@ c3.ai自蓝9下第一个浅蓝色中枢的离开，已走出9段相互有重叠�
 
 蓝11下如出现盘整背驰，或形成浅蓝色中枢3买，可在蓝色级别介入多仓。
 
-![当日点评截图](/assets/images/2024b/AI-20240823-comments-1.png)
+![当日点评截图](https://image.olim.cc/2024b/AI-20240823-comments-1.png)
 <small><center>当日点评截图（2024/08/23）</center></small>
 
 **阅读说明**
