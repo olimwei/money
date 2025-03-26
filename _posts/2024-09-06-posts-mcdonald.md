@@ -4,7 +4,7 @@ layout: blog
 excerpt: "又跑到世界名楼牡丹楼（Mcdonald）去点一杯今夏最气魄（cheap）的冰咖啡，发现酬宾计划已被取消，不禁黯然神伤。。。既然来了，不妨稍坐片刻，毕竟福瑞Wi-Fi还是有的。"
 header:
   image: 
-  teaser: /assets/images/teaser/时间周期-th.png
+  teaser: https://image.olim.cc/teaser/时间周期-th.png
 read_time: true
 comments: true
 share: true

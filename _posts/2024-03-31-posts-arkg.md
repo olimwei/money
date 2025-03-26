@@ -32,27 +32,27 @@ tags:
 
 ### ADPT
 
-![ADPT20240331](/assets/images/2024/2024-03-31-ADPT-c.png)
+![ADPT20240331](https://image.olim.cc/2024/2024-03-31-ADPT-c.png)
 <small><center>ADPT日线图（截止2024/03/31）</center></small>　
 
 蓝下内部绿色9段，最后绿9内部有两不重叠中枢，绿9和绿3背驰但和绿7不背。针对绿9下，关注针对最后绿色下跌中枢是否出现3卖后背驰。针对蓝下，多义性分解，可视上图中最后一段虚线绿下为3卖。可试仓。
 
-![BEAM20240331](/assets/images/2024/2024-03-31-BEAM-c.png)
+![BEAM20240331](https://image.olim.cc/2024/2024-03-31-BEAM-c.png)
 <small><center>BEAM日线图（截止2024/03/31）</center></small>　
 
 BEAM已从底部反弹上来已生长成绿色级别上，如图所示，关注3买机会。最后的绿色中枢离开段和进入段不背，上涨没有结束。
 
-![DNA20240331](/assets/images/2024/2024-03-31-DNA-c.png)
+![DNA20240331](https://image.olim.cc/2024/2024-03-31-DNA-c.png)
 <small><center>DNA日线图（截止2024/03/31）</center></small>　
 
 DNA针对下跌蓝色中枢出现了3卖，绿7确认结束后如和绿5背驰，非盘即涨，可介入。
 
-![MASS20240331](/assets/images/2024/2024-03-31-MASS-c.png)
+![MASS20240331](https://image.olim.cc/2024/2024-03-31-MASS-c.png)
 <small><center>MASS日线图（截止2024/03/31）</center></small>　
 
 MASS现在在趋势下第二中枢内部。1. 向下离开中枢出3卖后背驰以趋势走势类型结束，形成1买。2. 围绕最近蓝色中枢盘出高级别中枢。3.蓝下已经以盘整下结束于2023年11月低点，目前是蓝上2买和红上绿上1买共振点。
 
-![NERIX20240331](/assets/images/2024/2024-03-31-NRIX-c.png)
+![NERIX20240331](https://image.olim.cc/2024/2024-03-31-NRIX-c.png)
 <small><center>NRIX日线图（截止2024/03/31）</center></small>　
 
 NRIX走势较强，底部上来已形成一个绿色中枢且出现3买后无背驰上涨。暂无买点，因其率先启动，重点关注其回调位置。

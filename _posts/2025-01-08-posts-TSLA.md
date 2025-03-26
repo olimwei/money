@@ -30,7 +30,7 @@ tags:
 
 ### 三. 年度行业大会重点标的特斯拉TSLA的2024年走势及数据
 
-![TSLA](/assets/images/2025/tsla-20250103-day-j.jpeg)
+![TSLA](https://image.olim.cc/2025/tsla-20250103-day-j.jpeg)
 <small><center>TSLA日均线图（截至2025年1月3日）</center></small>　
 
 特斯拉股价基本数据：
@@ -43,14 +43,14 @@ tags:
 
 #### 1. 2024年度电动车行业大会前特斯拉位次分析
 
-![TSLA](/assets/images/2025/tsla-20240929-day-full.jpeg)
+![TSLA](https://image.olim.cc/2025/tsla-20240929-day-full.jpeg)
 <small><center>TSLA日线缠图（截至2024年9月29日）</center></small>　
 
 TSLA走势自2019年6月以深蓝1离开下方紫色中枢A，于2021年11月4日达高点414.50后以深蓝2回调至低点101.81，紫色中枢A离开段深蓝1明显和进入段不背驰，紫色上走势没有结束。标准走势高点414.50必破。
 
 截至缠论研习院2024年度电动车行业大会时，尚未上破414.50。
 
-![TSLA](/assets/images/2025/tsla-20240929-day-c.jpeg)
+![TSLA](https://image.olim.cc/2025/tsla-20240929-day-c.jpeg)
 <small><center>TSLA日线缠图（截至2024年9月29日）</center></small>　
 
 2021年11月高点414.50下来的深蓝2盘整下至低点101.81时无背驰，随后整个2023年反弹是围绕深蓝2下最后中枢震荡延伸，并不能确认深蓝2下结束，2023年底一直在提，要到2024年第三季度再回来看。
@@ -61,7 +61,7 @@ TSLA走势自2019年6月以深蓝1离开下方紫色中枢A，于2021年11月4�
 
 #### 2. 2024年度电动车行业大会后走势
 
-![TSLA](/assets/images/2025/tsla-20250105-day-hg.jpeg)
+![TSLA](https://image.olim.cc/2025/tsla-20250105-day-hg.jpeg)
 <small><center>TSLA日线缠图（截至2025年1月3日）</center></small>　
 
 电动车行业大会后红7上结束没有破红5高点，开启了红8下，在下方绿色中枢之上形成3买，向上开启了一段凌厉的红9上，不仅破了绿1高点299.29，且一鼓作气破了深蓝1上的历史高点414.50，到达历史新高488.54后转为红10下回调。
@@ -85,6 +85,6 @@ TSLA走势自2019年6月以深蓝1离开下方紫色中枢A，于2021年11月4�
 *上文由缠论研习院大师兄修订*
 
 把小结文字用AI制作了一首说唱乐。如下：
-<audio src="/assets/images/2025/特斯拉2024走势回顾.mp3" preload="none" controls loop>
+<audio src="https://image.olim.cc/2025/特斯拉2024走势回顾.mp3" preload="none" controls loop>
 特斯拉2024走势回顾
 </audio>

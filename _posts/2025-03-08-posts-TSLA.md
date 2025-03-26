@@ -19,7 +19,7 @@ tags:
 
 ### 以特斯拉2024年下半上涨走势为例的股票买卖案例分析
 
-![TSLA](/assets/images/2025/tsla-20250103-day-fx.jpeg)
+![TSLA](https://image.olim.cc/2025/tsla-20250103-day-fx.jpeg)
 <small><center>TSLA日均线图（截至2025年1月3日）</center></small>　
 
 ### 总结
