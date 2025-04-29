@@ -13,6 +13,7 @@ categories:
 tags:
   - MLGO
   - MES
+  - MACD
 ---
 
 4月22日MLGO走势和23日MES日内走势分析
