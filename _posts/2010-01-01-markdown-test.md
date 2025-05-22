@@ -209,11 +209,20 @@ graph TD;
 
 1. 用“==”在所选段落的前后 （这种方法在github不工作）
 2. 用<mark>mark</mark>语言 （这个可以）
+3. html语法
 
 I need to highlight these ==very important words==.
 我需要高亮==这段重要的话。==
 
 我需要<mark>高亮这几个字</mark>。
+
+接下来是几段用html语法涉及颜色的文字。
+
+<span style="background-color: yellow; color: red;">这是一段黄色背景的红色字体。</span>学会了吗？
+
+<span style="background-color: rgba(0,0,250,0.5);color: red;"><span style="color: yellow; ">这是一段蓝色半透明背景的黄色字体。</span></span>
+
+<span style="background-color: rgba(0, 250, 250, 0.5);"><span style="color: blue; ">这是一段半透明背景的字体。</span></span>
 
 ### 点击展开更多内容：
 
