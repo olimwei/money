@@ -10,6 +10,7 @@ classes: wide
 categories:
   - 美股复盘
   - 缠图
+  - 美股个股
 tags:
   - MLGO
   - MES
