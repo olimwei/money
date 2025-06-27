@@ -5,7 +5,7 @@ permalink: /learning/
 collection: learning
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: ture
 sidebar:
   - title: "Title"
     image: "https://image.olim.cc/350x250.png"

@@ -5,7 +5,7 @@ permalink: /thoughts/
 collection: thoughts
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: ture
 sidebar:
   - title: "Sidebar-1"
     image: "https://image.olim.cc/350x250.png"

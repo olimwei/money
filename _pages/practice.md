@@ -5,7 +5,7 @@ permalink: /practice/
 collection: practice
 entries_layout: grid
 classes: wide
-author_profile: true
+author_profile: ture
 sidebar:
   title: "Siderbar Sample"
   nav: sidebar-sample

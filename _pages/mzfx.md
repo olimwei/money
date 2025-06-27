@@ -7,7 +7,7 @@ collection: collection
 classes: # wide
 entries_layout: grid
 toc: ture
-toc_sticky: true
+toc_sticky: ture
 sidebar:
   - title: "民族复兴"
     text: ""

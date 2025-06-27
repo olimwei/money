@@ -7,7 +7,7 @@ collection: collection
 classes: # wide
 entries_layout: grid
 toc: ture
-toc_sticky: true
+toc_sticky: ture
 sidebar:
   - title: "论语详解"
     text: "给所有曲解孔子的人"
