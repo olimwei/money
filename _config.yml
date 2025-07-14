@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "zh"
-title                    : "缠论学习和美股复盘"
+title                    : "缠论等技术理论学习和A股美股复盘"
 title_separator          : "-"
 subtitle                 : 学而时习之，不亦乐乎！
-name                     : "钱商-欧耶美股复盘"
-description              : "欧耶关于美股投资和缠论的学习思考和复盘实践"
+name                     : "钱商-欧耶股市技术分析理论学习和复盘"
+description              : "欧耶关于股市投资（主要美股）技术分析理论如缠论等的学习思考和复盘实践"
 url                      : "https://money.olim.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "olimwei/money"
 teaser                   : "https://image.olim.cc/olim-teaser.png" # path of fallback teaser image, e.g. "https://image.olim.cc/500x300.png"
 logo                     : "https://image.olim.cc/logo-olim2.png"
-masthead_title           : "钱商-欧耶美股复盘" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "钱商-欧耶股市技术分析理论学习和复盘" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,14 +105,14 @@ analytics:
 author:
   name             : "欧耶"
   avatar           : "https://image.olim.cc/logo-olim-88x88.JPG"
-  bio              : "一个画图匠。画设计图，画股票走势图。"
+  bio              : "一个画图匠。画设计图，画股票走势图，顺便画出人生走势图"
   location         : "温哥华, 加拿大"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:me@olim.ca"
-    - label: "钱商-欧耶美股复盘"
+    - label: "钱商-欧耶股市技术分析理论学习和复盘"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
