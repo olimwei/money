@@ -9,6 +9,8 @@ read_time: true
 comments: true
 share: true
 author_profile: true
+toc: false
+toc_sticky: false
 classes: wide
 categories:
   - 闲聊
