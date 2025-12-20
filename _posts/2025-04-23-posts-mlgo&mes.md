@@ -23,11 +23,11 @@ tags:
 
 ### 2025-04-22 MLGO未来走势分类
 
-![MLGO](https://image.olim.cc/2025/MLGO-20250422-m15.jpeg)
+![MLGO](https://image.olim.in/2025/MLGO-20250422-m15.jpeg)
 <small><center>MLGO十五分钟图（截止2025/04/22）</center></small>　
 
 ### 2025-04-23 MES日内走势分析
 
-![MES](https://image.olim.cc/2025/MES-20250423-m1.jpeg)
+![MES](https://image.olim.in/2025/MES-20250423-m1.jpeg)
 <small><center>MES一分钟图（截止2025/04/23）</center></small>　
 

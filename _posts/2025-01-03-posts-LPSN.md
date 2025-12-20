@@ -29,10 +29,10 @@ tags:
 4月7日至最高价之涨幅：165%
 最低最高价间之振幅：362%
 
-![LPSN](https://image.olim.cc/2025/LPSN-20250101-hg1.jpeg)
+![LPSN](https://image.olim.in/2025/LPSN-20250101-hg1.jpeg)
 <small><center>LPSN日线缠图（截止2025/01/02）</center></small>　
 
-![LPSN](https://image.olim.cc/2025/LPSN-20250101-hg2.jpeg)
+![LPSN](https://image.olim.in/2025/LPSN-20250101-hg2.jpeg)
 <small><center>LPSN日线缠图局部放大（截止2025/01/02）</center></small>　
 
 ### 走势结构简述：

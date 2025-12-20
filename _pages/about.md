@@ -5,18 +5,18 @@ excerpt: "缠论学习和复盘是欧耶对投资的学习思考和实践的记�
 layout: splash
 header:
   overlay_color: "#5e616c"
-  overlay_image: https://image.olim.cc/o-home-featrue.jpg
+  overlay_image: https://image.olim.in/o-home-featrue.jpg
 excerpt: >
   欧耶用缠论在投资领域的学习，思考和应用实践的园地
 layouts_gallery:
-  - url: https://image.olim.cc/o-feature1.png
-    image_path: https://image.olim.cc/o-feature1.png
+  - url: https://image.olim.in/o-feature1.png
+    image_path: https://image.olim.in/o-feature1.png
     alt: "splash布局范例"
-  - url: https://image.olim.cc/o-feature2.png
-    image_path: https://image.olim.cc/o-feature2.png
+  - url: https://image.olim.in/o-feature2.png
+    image_path: https://image.olim.in/o-feature2.png
     alt: "单一布局，带评论和相关文章功能"
-  - url: https://image.olim.cc/o-feature3.png
-    image_path: https://image.olim.cc/o-feature3.png
+  - url: https://image.olim.in/o-feature3.png
+    image_path: https://image.olim.in/o-feature3.png
     alt: "archive布局范例"
 ---
 

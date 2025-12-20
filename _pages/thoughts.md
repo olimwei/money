@@ -8,7 +8,7 @@ classes: wide
 author_profile: ture
 sidebar:
   - title: "Sidebar-1"
-    image: "https://image.olim.cc/350x250.png"
+    image: "https://image.olim.in/350x250.png"
     image_alt: "image"
     text: "第一个sidebar"
   - title: "Sidebar-2"
