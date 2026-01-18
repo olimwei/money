@@ -1,0 +1,46 @@
+---
+title: "2026一月在微信群对tsla和大盘SPX的一点看法"
+layout: blog
+excerpt: "2025-10-17至30 日内期权机会探究"
+read_time: true
+comments: true
+share: true
+author_profile: true
+toc: false
+toc_sticky: false
+classes: wide
+categories:
+  - 美股复盘
+  - 缠图
+  - 微信群发言
+tags:
+  - TSLA
+  - SPX
+---
+
+### 2026年一月上旬在微信群对tsla和大盘SPX的一点看法，统一截屏贴在这里，供日后回头来复盘。
+20260102
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-1.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-2.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-3.png)
+![TSLA微信群发言](https://image.olim.in/2026/TSLA-2026-01-02.jpg)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-4.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-5.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-02-6.png)
+20260106
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-06-1.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-06-2.png)
+20260109
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-09-1.png)
+![TSLA微信群发言](https://image.olim.in/2026/TSLA-2026-01-09.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-09-2.png)
+20260114
+![SPX微信群发言](https://image.olim.in/2026/SPX-2026-01-14.jpg)
+![SPX微信群发言](https://image.olim.in/2026/SPX-2026展望.jpg)
+20260117
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-17-1.png)
+![TSLA微信群发言](https://image.olim.in/2026/SPX-2026-01-17.jpg)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-17-2.png)
+![TSLA微信群发言](https://image.olim.in/2026/2026-01-17-3.png)
+
+
