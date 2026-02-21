@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "缠论学习和复盘"
+title: "缠论等技术分析理论学习和A股美股复盘"
 excerpt: "缠论学习和复盘是欧耶对投资的学习思考和实践的记录"
 layout: splash
 header:
